@@ -1,0 +1,37 @@
+{
+    "folders": [
+		{
+			"path": "..\\..\\..\\SpringFramework\\Views"
+		},
+		{
+			"path": "..\\..\\admin"
+		},
+		{
+			"path": "..\\..\\..\\Tài LIệu\\Thiết Kế Web\\game demo"
+		},
+		{
+			"path": "..\\..\\..\\Tài LIệu\\Thiết Kế Web\\Cv-online"
+		},
+		{
+			"path": "..\\..\\..\\Tài LIệu\\Thiết Kế Web\\CuoiKi"
+		},
+		{
+			"path": "..\\..\\Lập trình CSS và SASS nâng cao"
+		},
+		{
+			"path": "..\\..\\html-css-js"
+		},
+		{
+			"path": "..\\..\\..\\Tài LIệu\\FE"
+		},
+		{
+			"path": "..\\..\\project1"
+		},
+		{
+			"path": ".."
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "frontend"
+    }
+}
