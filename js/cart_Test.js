@@ -47,9 +47,6 @@ $(document).ready(function() {
             "<i class='fa fa-times'></i>" + "</a>" +
             "</td>" +
             "</tr>";
-
-
-
     })
     $("table tbody").append(html);
 
